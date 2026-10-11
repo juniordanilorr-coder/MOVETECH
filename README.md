@@ -11,7 +11,7 @@ O projeto utilizará análise descritiva, amostragem, probabilidade e inferênci
 ## Integrantes
 
 - Danilo Ribeiro Rodrigues Junior
-- Giovanna Muniz
+- Giovanna Muniz Antoniazzi
 - Rafael de Moura de Oliveira
 - Nicollas Bernardo Furtunnato 
 - Leonardo Ricardo Gomes Belido
