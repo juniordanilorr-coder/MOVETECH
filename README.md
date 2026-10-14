@@ -12,8 +12,8 @@ O projeto utilizará análise descritiva, amostragem, probabilidade e inferênci
 
 - Danilo Ribeiro Rodrigues Junior
 - Giovanna Muniz Antoniazzi
-- Rafael de Moura de Oliveira
-- Nicollas Bernardo Furtunnato 
+- Rafael Moura de Oliveira
+- Nicollas Bernardo Furtunato 
 - Leonardo Ricardo Gomes Belido
 - Yasmin Alves Vitório
 
